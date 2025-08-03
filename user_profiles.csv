@@ -1,0 +1,16 @@
+UserID,Name,Interest,SkillLevel,Goal,PreferredDuration,LearningStyle,PreviousExperience
+1,Amit Kumar,Frontend Development,Intermediate,Become React Developer,20-30 hrs/week,Visual Learner,HTML/CSS basics
+2,Sneha Sharma,Cybersecurity,Beginner,Ethical Hacking Career,10-15 hrs/week,Hands-on Practice,Basic networking
+3,Ravi Patel,UI/UX Design,Beginner,Build Portfolio,15-20 hrs/week,Project-based,Graphic design basics
+4,Priya Singh,Data Science,Intermediate,ML Engineer,25-35 hrs/week,Theory + Practice,Python programming
+5,Arjun Mehta,Backend Development,Advanced,Full-Stack Developer,30-40 hrs/week,Code-focused,Java/Spring Boot
+6,Kavya Reddy,Digital Marketing,Beginner,Social Media Manager,12-18 hrs/week,Case Studies,Content creation
+7,Rohit Gupta,Cloud Computing,Intermediate,Cloud Architect,20-25 hrs/week,Certification-focused,AWS basics
+8,Ananya Joshi,Mobile Development,Beginner,App Developer,18-25 hrs/week,Build Projects,Basic programming
+9,Vikram Shah,DevOps,Intermediate,DevOps Engineer,25-30 hrs/week,Tool-based Learning,Linux/Docker
+10,Ishita Agarwal,Artificial Intelligence,Advanced,AI Researcher,35-45 hrs/week,Research-oriented,ML algorithms
+11,Karan Thakur,Blockchain,Beginner,Blockchain Developer,15-20 hrs/week,Concept + Coding,Cryptocurrency interest
+12,Meera Nair,Product Management,Intermediate,Senior PM,20-25 hrs/week,Framework-based,Business analysis
+13,Sahil Bansal,Game Development,Beginner,Indie Game Dev,20-30 hrs/week,Creative Projects,C# basics
+14,Tanya Kapoor,Quality Assurance,Intermediate,Test Lead,15-20 hrs/week,Process-oriented,Manual testing
+15,Nikhil Verma,System Design,Advanced,Senior Architect,30-40 hrs/week,Case Studies,Distributed systems

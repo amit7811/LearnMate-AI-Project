@@ -1,0 +1,51 @@
+CourseID,Title,Domain,Level,Platform,Duration(hrs),Rating,Instructor,Prerequisites,Skills,ProjectIncluded
+101,Intro to HTML & CSS,Frontend Development,Beginner,Coursera,15,4.5,John Smith,None,HTML5/CSS3/Responsive Design,Portfolio Website
+102,Advanced JavaScript ES6+,Frontend Development,Intermediate,Udemy,25,4.7,Sarah Johnson,Basic JS,ES6/Async Programming/DOM,Interactive Web Apps
+103,React Fundamentals,Frontend Development,Intermediate,Pluralsight,30,4.6,Mike Chen,JavaScript,React/JSX/Components/State,Todo App + E-commerce
+104,Vue.js Complete Guide,Frontend Development,Intermediate,Udemy,28,4.5,Emma Wilson,JavaScript,Vue.js/Vuex/Router,SPA Development
+105,Angular for Beginners,Frontend Development,Intermediate,Coursera,32,4.4,David Rodriguez,TypeScript basics,Angular/Services/RxJS,CRM Application
+106,Ethical Hacking Basics,Cybersecurity,Beginner,edX,20,4.3,Prof. Alan Taylor,Basic networking,Penetration Testing/Kali Linux,Lab Exercises
+107,Network Security Fundamentals,Cybersecurity,Intermediate,Cybrary,24,4.5,Lisa Park,CCNA knowledge,Firewalls/VPN/IDS,Network Lab Setup
+108,Advanced Penetration Testing,Cybersecurity,Advanced,Offensive Security,40,4.8,Kevin Mitnick,Ethical Hacking Basics,OSCP Prep/Advanced Exploits,Real-world Scenarios
+109,Incident Response & Forensics,Cybersecurity,Intermediate,SANS,35,4.7,Robert Clarke,Security fundamentals,Digital Forensics/Malware Analysis,Case Studies
+110,Cloud Security Architecture,Cybersecurity,Advanced,Cloud Security Alliance,30,4.6,Jennifer Liu,Cloud basics,AWS Security/Compliance,Security Audit Project
+111,Figma UI/UX Masterclass,UI/UX Design,Beginner,Skillshare,18,4.6,Alex Morgan,Design interest,Figma/Prototyping/Design Systems,Mobile App Design
+112,User Experience Research,UI/UX Design,Intermediate,Nielsen Norman Group,22,4.8,Dr. Susan Nielsen,Basic UX knowledge,User Research/Testing/Analytics,Research Project
+113,Advanced Interaction Design,UI/UX Design,Advanced,Interaction Design Foundation,26,4.7,Don Norman,UX fundamentals,Motion Design/Micro-interactions,Interactive Prototype
+114,Design Systems at Scale,UI/UX Design,Advanced,Design+Code,24,4.5,Meng To,UI/UX experience,Component Libraries/Tokens,Enterprise Design System
+115,Mobile-First Design,UI/UX Design,Intermediate,Udemy,20,4.4,Rachel Green,Responsive design,Mobile UX/Progressive Web Apps,Mobile Banking App
+116,Python for Data Science,Data Science,Beginner,DataCamp,25,4.6,Dr. Emily Davis,Basic programming,Pandas/NumPy/Matplotlib,Data Analysis Project
+117,Machine Learning A-Z,Data Science,Intermediate,Udemy,40,4.7,Kirill Eremenko,Python/Statistics,Scikit-learn/ML Algorithms,Predictive Models
+118,Deep Learning Specialization,Data Science,Advanced,Coursera,45,4.8,Andrew Ng,ML fundamentals,TensorFlow/Neural Networks,Computer Vision Project
+119,SQL for Data Analysis,Data Science,Beginner,Mode Analytics,15,4.4,Ben Sullins,Database basics,SQL/PostgreSQL/Data Modeling,Business Intelligence Dashboard
+120,Big Data with Apache Spark,Data Science,Advanced,Databricks,35,4.5,Jules Damji,Distributed computing,Spark/Scala/Data Engineering,Real-time Analytics
+121,Node.js Complete Course,Backend Development,Intermediate,Udemy,30,4.6,Brad Traversy,JavaScript,Express.js/MongoDB/REST APIs,Social Media API
+122,Django Web Development,Backend Development,Intermediate,Django Software Foundation,28,4.5,William Vincent,Python,Django/PostgreSQL/Authentication,Blog Platform
+123,Spring Boot Microservices,Backend Development,Advanced,Spring,35,4.7,Josh Long,Java/Spring,Microservices/Docker/Kubernetes,E-commerce Backend
+124,GraphQL API Design,Backend Development,Advanced,Apollo,20,4.6,Eve Porcello,API development,GraphQL/Apollo/Schema Design,Modern API
+125,Database Design & Optimization,Backend Development,Advanced,PostgreSQL,25,4.8,Bruce Momjian,SQL knowledge,Database Tuning/Indexing/Scaling,High-performance DB
+126,Social Media Marketing,Digital Marketing,Beginner,HubSpot Academy,12,4.3,Brian Halligan,Marketing interest,Facebook Ads/Instagram/Content Strategy,Campaign Creation
+127,Google Ads Mastery,Digital Marketing,Intermediate,Google,18,4.5,Brad Geddes,PPC basics,Google Ads/Keyword Research/Analytics,Ad Campaign
+128,Content Marketing Strategy,Digital Marketing,Intermediate,Content Marketing Institute,16,4.4,Ann Handley,Content creation,SEO/Blogging/Email Marketing,Content Calendar
+129,Marketing Analytics,Digital Marketing,Advanced,Google Analytics,22,4.6,Avinash Kaushik,Digital marketing,GA4/Data Studio/Attribution,Analytics Dashboard
+130,Influencer Marketing,Digital Marketing,Intermediate,Later,14,4.2,Matt Smith,Social media,Influencer Outreach/Campaign Management,Influencer Campaign
+131,AWS Cloud Practitioner,Cloud Computing,Beginner,AWS,20,4.5,Ryan Kroonenburg,IT basics,AWS Services/EC2/S3/IAM,Cloud Migration Project
+132,Azure Fundamentals,Cloud Computing,Beginner,Microsoft,18,4.4,Scott Duffy,Cloud basics,Azure Services/Virtual Machines/Storage,Multi-cloud Setup
+133,Docker & Kubernetes,Cloud Computing,Intermediate,Docker,25,4.7,Bret Fisher,Linux/Containers,Docker/K8s/Container Orchestration,Microservices Deployment
+134,Terraform Infrastructure,Cloud Computing,Advanced,HashiCorp,24,4.6,Ned Bellavance,Cloud experience,IaC/Terraform/Cloud Automation,Infrastructure as Code
+135,Serverless Architecture,Cloud Computing,Advanced,Serverless,22,4.5,Yan Cui,Cloud development,Lambda/API Gateway/Event-driven,Serverless Application
+136,iOS Development Swift,Mobile Development,Beginner,Apple,30,4.6,Angela Yu,Programming basics,Swift/iOS SDK/Xcode,iOS Weather App
+137,Android Kotlin Development,Mobile Development,Beginner,Google,28,4.5,Philipp Lackner,Java knowledge,Kotlin/Android Studio/Material Design,Android News App
+138,React Native Complete,Mobile Development,Intermediate,Udemy,32,4.7,Stephen Grider,React knowledge,React Native/Expo/Navigation,Cross-platform App
+139,Flutter Development,Mobile Development,Intermediate,Google,26,4.6,Andrea Bizzotto,OOP concepts,Dart/Flutter/Material Design,E-commerce Mobile App
+140,Progressive Web Apps,Mobile Development,Advanced,Google,20,4.4,Pete LePage,Web development,PWA/Service Workers/Web APIs,Offline-first App
+141,Jenkins CI/CD Pipeline,DevOps,Beginner,Jenkins,16,4.3,Tao Yang,Version control,Jenkins/Git/Automated Testing,CI/CD Setup
+142,Docker for DevOps,DevOps,Intermediate,Docker,22,4.6,Nigel Poulton,Containerization,Docker Swarm/Compose/Registry,Container Pipeline
+143,Kubernetes Administration,DevOps,Advanced,CNCF,35,4.8,Kelsey Hightower,Docker knowledge,K8s Admin/Networking/Security,Production K8s Cluster
+144,Ansible Automation,DevOps,Intermediate,Red Hat,20,4.5,Jesse Keating,Linux/YAML,Ansible/Playbooks/Configuration Management,Infrastructure Automation
+145,Monitoring with Prometheus,DevOps,Advanced,Prometheus,18,4.7,Brian Brazil,DevOps fundamentals,Prometheus/Grafana/Alerting,Monitoring Stack
+146,Machine Learning Fundamentals,Artificial Intelligence,Beginner,MIT,25,4.7,Prof. Patrick Winston,Math/Statistics,ML Algorithms/Linear Algebra,Classification Project
+147,Natural Language Processing,Artificial Intelligence,Intermediate,Stanford,30,4.8,Prof. Christopher Manning,ML basics,NLP/Transformers/BERT,Chatbot Development
+148,Computer Vision with OpenCV,Artificial Intelligence,Intermediate,OpenCV,28,4.6,Adrian Rosebrock,Python/ML,OpenCV/Image Processing/CNNs,Object Detection System
+149,Reinforcement Learning,Artificial Intelligence,Advanced,DeepMind,40,4.9,David Silver,Deep learning,RL Algorithms/Q-Learning/Policy Gradients,Game AI Agent
+150,AI Ethics & Responsible AI,Artificial Intelligence,Intermediate,MIT,15,4.5,Prof. Cynthia Breazeal,AI fundamentals,Bias Detection/Fairness/Transparency,Ethics Framework

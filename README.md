@@ -55,10 +55,10 @@ UserID   | Name    | Interest                  | SkillLevel        | Goal
 
 ### 2. Course Catalog (`course_data.csv`)
 ```
-CourseID | Title | Domain | Level | Platform | Duration(hrs)
-101 | Intro to HTML & CSS | Frontend Development | Beginner | Coursera | 15
-102 | Advanced JavaScript | Frontend Development | Intermediate | Udemy | 25
-103 | Ethical Hacking Basics | Cybersecurity | Beginner | edX | 20
+CourseID | Title                  | Domain               | Level        | Platform  | Duration(hrs)
+101      | Intro to HTML & CSS    | Frontend Development | Beginner     | Coursera  | 15
+102      | Advanced JavaScript    | Frontend Development | Intermediate | Udemy     | 25
+103      | Ethical Hacking Basics | Cybersecurity        | Beginner     | edX       | 20
 ```
 
 **Features:**
